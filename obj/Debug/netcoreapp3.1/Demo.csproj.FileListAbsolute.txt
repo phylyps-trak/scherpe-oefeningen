@@ -1,0 +1,12 @@
+/Users/m1ch13l/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/m1ch13l/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/m1ch13l/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/m1ch13l/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/m1ch13l/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.csprojAssemblyReference.cache
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/m1ch13l/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
